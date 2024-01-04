@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" style="background-color:#242424" width="200" height="200">
+	<title>Logo Fabio Gentile</title>
+	<defs>
+		<image  width="147" height="108" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAABsAQMAAABU7xKaAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA9vb2AhanvwAAAAJ0Uk5TAP9bkSK1AAAA8klEQVR4nNXVwQ2EIBAFUIwHjpRAKW5n0sm2QimW4HEPxlkR0IH5yZKsB50LkxcRUYdRiof5qDoMEfltpBirynlpOmfMbEwnbiMwktYD08AMMAts2Ia3NBeu3uzY9hhTyy3MCvEqzOUsWxffTWWLsJ7d5bRZmIY2AfPCDDQnzDabarIB2XqtjciWG9lHGj3cKFX8bprX0bOs2BuyULI/LH3z21qqmeuMpNm/zAkz0HyTpTOxwWZh6SyubBGWzvbKSJiKvbK0cX+Y2sIiQ2FD+m25sV52mAGmgfXAOmCsJ59mgaVFPLdYZ7MqIkxeVBWxtX4BmrnbM+Z04VgAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="F" href="#img1" x="28" y="43"/>
+</svg>

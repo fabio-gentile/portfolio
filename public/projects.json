@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "slug": "retro-rap-festival",
+      "title": "Retro Rap Festival",
+      "technology": ["SASS", "HTML", "Javascript"],
+      "introduction": "Examen web statique : festival.",
+      "description": "L'objectif de cet examen était de créer un site web statique sur un festival musical fictif. Le site devait comporter au minimum une page d'accueil, une page sur les artistes présents au festival et une page concernant les tickets disponibles.",
+      "link_github": "https://github.com/fabio-gentile/Festival",
+      "link_website": "https://retrorapfestival.fabiogentile.me",
+      "thumbnail": "/thumbnail/retrorapfestival.webp",
+      "images": [
+        "/images/retrorapfestival/1.webp",
+        "/images/retrorapfestival/2.webp",
+        "/images/retrorapfestival/3.webp",
+        "/images/retrorapfestival/4.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "portfolio",
+      "title": "Portfolio",
+      "technology": ["Vue.js", "Tailwind CSS"],
+      "introduction": "Projet personnel : portfolio.",
+      "description": "Ce site web sert de vitrine pour mes projets et mes compétences.",
+      "link_github": "https://github.com/fabio-gentile/portfolio",
+      "link_website": "https://fabiogentile.me",
+      "thumbnail": "/thumbnail/portfolio.webp",
+      "images": ["/images/portfolio/1.webp", "/images/portfolio/2.webp", "/images/portfolio/3.webp"]
+    },
+    {
+      "id": 3,
+      "slug": "carshop",
+      "title": "Carshop",
+      "technology": ["Symfony", "MySQL", "Bootstrap", "Javascript", "Twig"],
+      "introduction": "Examen symfony : garage automobile.",
+      "description": "L'objectif de mon examen de Symfony était de créer une application web pour gérer un garage automobile. L'application permet aux utilisateurs de se connecter, créer un compte, et utiliser un ensemble de fonctionnalités CRUD pour gérer leur profil ainsi que les annonces liées au garage.",
+      "link_github": "https://github.com/fabio-gentile/carshop",
+      "link_website": "https://carshop.fabiogentile.me",
+      "thumbnail": "/thumbnail/carshop.webp",
+      "images": ["/images/carshop/1.webp", "/images/carshop/2.webp", "/images/carshop/3.webp", "/images/carshop/4.webp"]
+    },
+    {
+      "id": 4,
+      "slug": "cinema-insights",
+      "title": "Cinema Insights",
+      "technology": ["Vue.js", "Tailwind CSS"],
+      "introduction": "Projet personnel : bibliothèque de cinéma.",
+      "description": "Ce site a été créé en autodidacte dans le but de développer des compétences dans l'utilisation du framework Vue.js. Il offre la possibilité de découvrir les dernières créations ainsi que des détails sur les films, séries, acteurs et réalisateurs.",
+      "link_github": "https://github.com/fabio-gentile/cinema-insights",
+      "link_website": "https://cinema-insights.fabiogentile.me",
+      "thumbnail": "/thumbnail/cinemainsights.webp",
+      "images": [
+        "/images/cinemainsights/1.webp",
+        "/images/cinemainsights/2.webp",
+        "/images/cinemainsights/3.webp",
+        "/images/cinemainsights/4.webp"
+      ]
+    }
+  ]
+}

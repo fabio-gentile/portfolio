@@ -1,0 +1,15 @@
+{
+  "short_name": "Fabio Gentile",
+  "name": "Fabio Gentile - Développeur web junior",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#242424",
+  "theme_color": "#242424"
+}
